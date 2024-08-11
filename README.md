@@ -1,4 +1,5 @@
 # AI Final Project
+Quinn Ridgeway
 
 ## Design:
 The gymnaisum environment is LunarLander-v2, and the model trained is a Deep Q Network or DQN. 
@@ -20,11 +21,11 @@ The model code.
 
 ### lunar_lander.gif:
 The gif of the training run, it only recorded 10 of the 1500 episodes.
-<img src="lunar_lander.gif" alt="gif of DQN lunar lander training run">
+<img src="lunar_lander.gif" alt="gif of DQN lunar lander training run" width="800">
 
 ### training_results.png:
 A plot of the game score vs episode number.
-<img src="training_results.png" alt="Plot of episodes vs game score">
+<img src="training_results.png" alt="Plot of episodes vs game score" width="800">
 
 ### README.md:
 This file. 
